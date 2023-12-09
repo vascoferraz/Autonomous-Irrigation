@@ -45,7 +45,7 @@ Some important remarks that should not be forgotten:
     - **Pressed:** 135~155
     - **Up:** 735~755
     - **Down:** 320~340
-    - **Left:** 0~20<
+    - **Left:** 0~20
     - **Right:** 495~515
 
 9) Make sure that you use a good power supply with enough power to operate the solenoid valves.
